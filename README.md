@@ -12,7 +12,7 @@
 ## Doing List 📗
 * 制作 **ClassPicker (开源URL: [https://github.com/aiwandiannaodelele/ClassPicker](https://github.com/aiwandiannaodelele/ClassPicker)) (Python)**
 
-* 制作 **Swift Minecraft (开源URL: [https://github.com/aiwandiannaodelele/Swift-Minecraft](https://github.com/aiwandiannaodelele/Swift-Minecraft)) (WPF)**
+* 制作 **Swift Minecraft (开源URL: [https://github.com/aiwandiannaodelele/Swift-Minecraft](https://github.com/aiwandiannaodelele/Swift-Minecraft)) (综合)**
 
 ## To-Do List 📒
 * 继续维护项目
