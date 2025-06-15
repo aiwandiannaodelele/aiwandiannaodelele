@@ -6,9 +6,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aiwandiannaodelele&count_private=true&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_border=true&hide_title=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiwandiannaodelele&card_width=230&layout=compact&langs_count=10&hide_border=true&hide=Assembly,HTML&custom_title=Most%20Used%20Languages%20~" />
 
-## About Me 🤪
-一个小学生，额，没什么别的了。
-
 ## Doing List 📗
 * 制作 **ClassPicker (开源URL: [https://github.com/aiwandiannaodelele/ClassPicker](https://github.com/aiwandiannaodelele/ClassPicker)) (Python)**
 
