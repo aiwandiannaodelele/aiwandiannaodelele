@@ -7,9 +7,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiwandiannaodelele&card_width=230&layout=compact&langs_count=10&hide_border=true&hide=Assembly,HTML&custom_title=Most%20Used%20Languages%20~" />
 
 ## Doing List 📗
-* 制作 **ClassPicker (开源URL: [https://github.com/aiwandiannaodelele/ClassPicker](https://github.com/aiwandiannaodelele/ClassPicker)) (Python)**
-
-* 制作 **Swift Minecraft (开源URL: [https://github.com/aiwandiannaodelele/Swift-Minecraft](https://github.com/aiwandiannaodelele/Swift-Minecraft)) (综合)**
+* 制作 **ClassPicker (开源URL: [https://github.com/aiwandiannaodelele/ClassPicker-Nextgen](https://github.com/aiwandiannaodelele/ClassPicker-Nextgen)) (HTML/CSS/JavaScript)**
 
 ## To-Do List 📒
 * 继续维护项目
